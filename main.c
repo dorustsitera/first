@@ -4,7 +4,8 @@ int main(void)
 {
 	int code ;
 
-    printf("hi\n");
+    printf("Bonjour\n");
+
     printf("Entrer votre code\n");
     do{
 
